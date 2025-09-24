@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mad-codes7&label=Profile%20views&color=0e75b6&style=flat" alt="mad-codes7" /> </p>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **DATA STRUCTURES**
 
 - 💬 Ask me about **react, node**
 
